@@ -1,0 +1,6 @@
+
+[features]
+
+	[features.melody]
+		melody_helper = true
+

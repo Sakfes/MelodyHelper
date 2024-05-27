@@ -1,0 +1,8 @@
+{
+    "name": "Melody Helper",
+    "creator": "Sakfes, teeTu97",
+    "version": "1.0.0",
+    "description": "Displays melody progress on screen",
+    "entry": "index.js",
+    "requires": ["Vigilance"] 
+  }
