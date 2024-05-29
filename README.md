@@ -1,3 +1,5 @@
+This is the only place where you can download the original version of the file.
+
 /melodyhelper or /mh
 
 Scuffed a bit but i cba to fix
