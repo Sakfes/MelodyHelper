@@ -1,3 +1,5 @@
+/melodyhelper or /mh
+
 Scuffed a bit but i cba to fix
 
 SHOUTOUT TEETU97 TO OPTIMISING THE CODE (THERES NO OPTIMISATION)
